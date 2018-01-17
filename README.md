@@ -1,4 +1,4 @@
-# Machine Learning by Columbia University on edX
+# edX Machine Learning by Columbia University
 
 The course [website](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-2)
 
