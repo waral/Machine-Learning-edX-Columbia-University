@@ -8,8 +8,11 @@ More details can be found at the link above or on the edX course [website](https
 
 ## Projects:
 
-### 1. Ridge regression
+### 1. Regression : ridge regression
 Applied to [Wine Quality dataset](http://archive.ics.uci.edu/ml/datasets/Wine+Quality).
-### 2. Plug-in (Bayes) classifier
-### 3. k-means clustering algorithm and the EM algorithm for Gaussian mixture model
-### 4. Collaborative filtering via probabilistic matrix factorization
+### 2. Classification: plug-in (Bayes) classifier
+Applied to [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris).
+### 3. Clustering: k-means and the EM algorithm for Gaussian mixture model
+Applied to a dataset randomly generated from a few Gaussians.
+### 4. Collaborative filtering: probabilistic matrix factorization
+Applied to [MovieLens dataset](https://grouplens.org/datasets/movielens/).
