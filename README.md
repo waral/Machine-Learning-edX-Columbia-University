@@ -7,7 +7,9 @@ Based on the lecture notes of the course ([link](http://www.columbia.edu/~jwp212
 More details can be found at the link above or on the edX course [website](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-2).
 
 ## Projects:
-1. Ridge regression
-2. Plug-in (Bayes) classifier
-3. k-means clustering algorithm and the EM algorithm for Gaussian mixture model
-4. Collaborative filtering via probabilistic matrix factorization
+
+### 1. Ridge regression
+Applied to [Wine Quality dataset](http://archive.ics.uci.edu/ml/datasets/Wine+Quality).
+### 2. Plug-in (Bayes) classifier
+### 3. k-means clustering algorithm and the EM algorithm for Gaussian mixture model
+### 4. Collaborative filtering via probabilistic matrix factorization
