@@ -49,11 +49,11 @@ for i in range(iterations):
         best_lam = lam
         best_val_error = val_error
 
-print('Best lambda: ', best_lam, ' validation accuracy: ', best_val_error)
+print('Best lambda: ', best_lam, ' validation error: ', best_val_error)
 wRR = rregression(X_train, y_train, best_lam)
 y_ans = np.dot(X_test, wRR) + y_mean
 test_error = np.mean(np.absolute(y_ans - y_test))
-print('Test accuracy: ', test_error)
+print('Test error: ', test_error)
 
 
 
